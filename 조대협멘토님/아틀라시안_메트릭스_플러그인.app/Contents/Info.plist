@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.lfohjimecjjeamkpjpahgeemjckjkhoc</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>아틀라시안_메트릭스_플러그인</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string></string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5005.61</string>
+	<key>CrAppModeShortcutID</key>
+	<string>lfohjimecjjeamkpjpahgeemjckjkhoc</string>
+	<key>CrAppModeShortcutName</key>
+	<string>아틀라시안_메트릭스_플러그인</string>
+	<key>CrAppModeShortcutURL</key>
+	<string>https://community.atlassian.com/t5/DevOps-articles/DevOps-Metrics-are-here-measure-deployment-and-incident-response/ba-p/1339450</string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/vidigummy/Library/Application Support/Google/Chrome/-/Web Applications/_crx_lfohjimecjjeamkpjpahgeemjckjkhoc</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>102.0.5005.61</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>12.3</string>
+	<key>DTSDKName</key>
+	<string>macosx12.3</string>
+	<key>DTXcode</key>
+	<string>1330</string>
+	<key>DTXcodeBuild</key>
+	<string>13E113</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocNanoZone</key>
+		<string>0</string>
+	</dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.11.0</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
